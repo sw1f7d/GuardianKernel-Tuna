@@ -25,4 +25,4 @@ Notes:
 
 Linux kernel standard readme: https://github.com/x942/GuardianKernel-Mako/blob/master/README
 
-License: 
+License: https://github.com/x942/GuardianKernel-Tuna/blob/master/GPL-Linux
